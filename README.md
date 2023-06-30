@@ -1,16 +1,28 @@
-### Hi there 👋
+# GuoJing Li
 
-<!--
-**AlfredJamesLi/AlfredJamesLi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 🎓 Education
+- Visiting Scholar, Scott Business School, Indiana State University (2022 - present)
+- Ph.D. Student in Human Resource Management, Renmin University of China (2020 - present)
+- Master of Applied Psychology, City University of Macao (2013 - 2016)
+- Bachelor of Science in Applied Mathematics, Beijing Normal University Zhuhai Campus (2009 - 2013)
 
-Here are some ideas to get you started:
+## 🔭 Research Interests
+- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 💼 Professional Experience
+- Research Consultant & Data Analyst, eRS Information Technology Limited (2018/07 - present)
+- Teacher Assistant, School of Labor and Human Resources, Renmin University of China (2020/09 - 2022/09)
+
+## 🏆 Awards
+- Scholarship from China Scholarship Council
+- Scholarship for Ph.D. students at Renmin University of China
+
+## 💻 Skills & Certifications
+- Data Analysis Tools: SPSS, Amos, Python, Stata, MATLAB, R, etc.
+- Languages: Mandarin & Cantonese (Native), English (Fluent)
+- Certifications: Artificial Intelligence Engineer (Microsoft MTA certificate), Data Manager (Microsoft MTA certificate), Data Analyst (MTA), Python Technology Developer (Advanced), Senior Software Engineer, Big Data Analyst (Ministry of Industry and Information Technology, China), Teacher's Qualification Certificate, etc.
+
+## 📫 Contact Information
+- Email: alfredjameslee@ruc.edu.cn
+
+Feel free to reach out to me via email for discussions on applications of data science and AI!
