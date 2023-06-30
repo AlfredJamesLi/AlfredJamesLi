@@ -18,8 +18,19 @@
 
       .header-container {
         text-align: center;
-        padding: 100px 50px 50px;  /* Top padding is now 100px */
+        padding: 50px;
         background-color: rgba(255, 255, 255, 0.7);
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+        justify-content: center;
+      }
+
+      .profile-section {
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        margin-bottom: 0.2cm;
       }
 
       .profile-img {
@@ -27,18 +38,7 @@
         height: 150px;
         border-radius: 50%;
         object-fit: cover;
-        margin-bottom: 10px;  /* Bottom margin is now 10px */
-      }
-
-      .name-and-icons {
-        display: flex;
-        align-items: center;
-        flex-direction: column;
-        margin-bottom: 10px;  /* Bottom margin is now 10px */
-      }
-
-      .contact-info {
-        margin-left: auto;
+        margin-right: 20px;
       }
 
       .content {
@@ -46,6 +46,12 @@
         margin: 0 auto;
         padding: 20px;
         text-align: justify;
+      }
+
+      .contact-info {
+        display: flex;
+        justify-content: center;
+        margin-left: 20px;
       }
 
       .contact-info a {
@@ -63,7 +69,7 @@
     <div class="wrapper">
       <header>
         <div class="header-container">
-          <div class="name-and-icons">
+          <div class="profile-section">
             <img src="李国静-个人照片.jpg" class="profile-img" alt="Guojing Li">
             <h1>Guojing Li 李国静</h1>
             <div class="contact-info">
