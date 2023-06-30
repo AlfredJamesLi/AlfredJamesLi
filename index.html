@@ -22,9 +22,11 @@
       .header-container {
         display: flex;
         flex-direction: column;
-        align-items: center;
+        align-items: flex-start;
+        justify-content: center;
+        height: 100vh;
         padding: 50px;
-        text-align: center;
+        background-color: rgba(0, 0, 0, 0.5);
       }
 
       .profile-img {
@@ -34,6 +36,12 @@
         object-fit: cover;
         margin-bottom: 20px;
       }
+
+      .content {
+        max-width: 800px;
+        margin: 0 auto;
+        padding: 20px;
+      }
     </style>
   </head>
   <body>
@@ -41,13 +49,15 @@
       <header>
         <div class="header-container">
           <img src="李国静-个人照片.jpg" class="profile-img" alt="Guojing Li">
-          <h1>Guojing Li 李国静</h1>
-          <p>Hi! I am currently a Joint-PhD student of Data Science at CityU (Supervisor: Prof. Xiangyu Zhao) and Labor and Human Resource Management School at Renmin University (Supervisor: Prof. Zhou Wenxia) and Research Laboratory at the Applied Machine Learning Lab. Before that, I graduated with an Application Mathematic Bachelor's degree from Beijing Normal University (Zhuhai Campus) and got an Applied Psychology of Master degree from City University of Macao.</p>
-          <p>Email:<br>alfredjameslee@ruc.edu.cn</p>
-          <b>Social</b><br>
-          <div class="social-row">
-            <a href="mailto:alfredjameslee@ruc.edu.cn" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
-            <a href="http://github.com/GuojingLi"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
+          <div class="content">
+            <h1>Guojing Li 李国静</h1>
+            <p>Hi! I am currently a Joint-PhD student of Data Science at CityU (Supervisor: Prof. Xiangyu Zhao) and Labor and Human Resource Management School at Renmin University (Supervisor: Prof. Zhou Wenxia) and Research Laboratory at the Applied Machine Learning Lab. Before that, I graduated with an Application Mathematic Bachelor's degree from Beijing Normal University (Zhuhai Campus) and got an Applied Psychology of Master degree from City University of Macao.</p>
+            <p>Email:<br>alfredjameslee@ruc.edu.cn</p>
+            <b>Social</b><br>
+            <div class="social-row">
+              <a href="mailto:alfredjameslee@ruc.edu.cn" class="author-social" target="_blank"><i class="fa fa-fw fa-envelope-square"></i> Email</a><br>
+              <a href="http://github.com/GuojingLi"><i class="fa fa-fw fa-github-square"></i> GitHub</a><br>
+            </div>
           </div>
         </div>
         <p><small>Hosted on GitHub Pages</small></p>
@@ -62,17 +72,3 @@
         <h2>Awards</h2>
         <ul>
           <li>China National Study Abroad Scholarship</li>
-          <li>Ph.D. Scholarship from Renmin University of China</li>
-        </ul>
-
-        <h2>Skills & Certifications</h2>
-        <ul>
-          <li>Common data analysis tools: SPSS, Amos, Python, Stata, MATLAB, R, etc</li>
-          <li>Languages: Mandarin, Cantonese (native), English (fluent)</li>
-          <li>Certificates: AI Engineer (Microsoft MTA certificate), Data Management Specialist (Microsoft MTA certificate), Data Analyst (MTA), Python Technical Developer (Advanced), Senior Software Engineer, Big Data Analyst (China MIIT) and Teacher Qualification Certificate, etc</li>
-        </ul>
-      </section>
-    </div>
-    <script src="javascripts/scale.fix.js"></script>
-  </body>
-</html>
