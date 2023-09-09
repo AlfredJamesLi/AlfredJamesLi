@@ -7,14 +7,14 @@
 - Bachelor of Science in Applied Mathematics, Beijing Normal University Zhuhai Campus (2009 - 2013)
 
 ## 🔭 Research Interests
-- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
+- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence, and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
 
 ## 💼 Professional Experience
-- Data Analyst at  BoYi Data Technology LTD(2018/07 - 2020/07 ) (2018/07 - 2020/07)
+- Data Analyst at  BoYi Data Technology LTD(2018/07 - 2020/07 ) 
 - Teacher Assistant, School of Labor and Human Resources, Renmin University of China (2020/09 - 2022/09)
 
 ## 🏆 Awards
-- Scholarship from China Scholarship Council
+- Scholarship from The China Scholarship Council
 - Scholarship for Ph.D. students at Renmin University of China
 
 ## 💻 Skills & Certifications
