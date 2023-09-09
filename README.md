@@ -10,7 +10,7 @@
 - My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
 
 ## 💼 Professional Experience
-- Research Consultant & Data Analyst, eRS Information Technology Limited (2018/07 - present)
+- Data Analyst at  BoYi Data Technology LTD(2018/07 - 2020/07 ) (2018/07 - 2020/07)
 - Teacher Assistant, School of Labor and Human Resources, Renmin University of China (2020/09 - 2022/09)
 
 ## 🏆 Awards
