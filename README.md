@@ -7,7 +7,7 @@
 - Bachelor of Science in Applied Mathematics, Beijing Normal University Zhuhai Campus (2009 - 2013)
 
 ## 🔭 Research Interests
-- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence, and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
+- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
 
 ## 💼 Professional Experience
 - Data Analyst at  BoYi Data Technology LTD(2018/07 - 2020/07 ) 
@@ -20,7 +20,7 @@
 ## 💻 Skills & Certifications
 - Data Analysis Tools: SPSS, Amos, Python, Stata, MATLAB, R, etc.
 - Languages: Mandarin & Cantonese (Native), English (Fluent)
-- Certifications: Artificial Intelligence Engineer (Microsoft MTA certificate), Data Manager (Microsoft MTA certificate), Data Analyst (MTA), Python Technology Developer (Advanced), Senior Software Engineer, Big Data Analyst (Ministry of Industry and Information Technology, China), Teacher's Qualification Certificate, etc.
+- Certifications: CDA-LEVEL-II(Certified Data Analyst)， Artificial Intelligence Engineer (Microsoft MTA certificate), Data Manager (Microsoft MTA certificate), Data Analyst (MTA), Python Technology Developer (Advanced), Senior Software Engineer, Big Data Analyst (Ministry of Industry and Information Technology, China), Teacher's Qualification Certificate, etc.
 
 ## 📫 Contact Information
 - Email: alfredjameslee@ruc.edu.cn
