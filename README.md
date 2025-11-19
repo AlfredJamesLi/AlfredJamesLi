@@ -1,13 +1,14 @@
 # GuoJing Li
 
 ## 🎓 Education
-- Visiting Scholar, Scott Business School, Indiana State University (2022 - present)
-- Ph.D. Student in Human Resource Management, Renmin University of China (2020 - present)
+- Ph.D. Student in the School of Data Science, City University of Hong Kong (2024 - present) 
+- Visiting Scholar, Scott Business School, Indiana State University (2022 - 2024)
+- Ph.D. Student in Human Resource Management, Renmin University of China (2020 - present)  
 - Master of Applied Psychology, City University of Macao (2013 - 2016)
 - Bachelor of Science in Applied Mathematics, Beijing Normal University Zhuhai Campus (2009 - 2013)
 
 ## 🔭 Research Interests
-- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measure competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
+- My research interests include multi-modeling measurement of Individual differences (such as Personality measurement by social media, AI chat measures competence and other multi-behavior and multi-task measurements) and other applications of machine learning and big data in Social Science.
 
 ## 💼 Professional Experience
 - Data Analyst at  BoYi Data Technology LTD(2018/07 - 2020/07 ) 
@@ -24,5 +25,5 @@
 
 ## 📫 Contact Information
 - Email: alfredjameslee@ruc.edu.cn
-
+- Email2:guojingli3-c@my.cityu.edu.hk
 Feel free to reach out to me via email for discussions on applications of data science and AI!
