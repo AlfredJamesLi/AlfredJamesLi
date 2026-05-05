@@ -2,10 +2,10 @@
 <html lang="en">
   <head>
     <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
     <title>Guojing Li | Personal Homepage</title>
     <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.3/css/all.min.css">
     <link rel="stylesheet" href="https://cdn.rawgit.com/jpswalsh/academicons/master/css/academicons.css">
-
     <style>
       body {
         background-image: url('Background.jpg');
@@ -14,7 +14,6 @@
         color: #333;
         display: flex;
         justify-content: center;
-        align-items: center;
         min-height: 100vh;
         margin: 0;
         font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, "Helvetica Neue", Arial, "PingFang SC", "Microsoft YaHei", sans-serif;
@@ -29,8 +28,8 @@
         margin: 40px auto;
         text-align: left;
         padding: 40px 40px 50px 40px;
-        background-color: rgba(255, 255, 255, 0.85);
-        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.1);
+        background-color: rgba(255, 255, 255, 0.88);
+        box-shadow: 0 4px 16px rgba(0, 0, 0, 0.10);
         border-radius: 10px;
       }
 
@@ -52,7 +51,7 @@
 
       h1 {
         margin: 0 0 8px 0;
-        font-size: 26px;
+        font-size: 28px;
       }
 
       h2 {
@@ -68,7 +67,7 @@
         margin: 0 auto;
         padding-top: 10px;
         text-align: justify;
-        line-height: 1.6;
+        line-height: 1.68;
         font-size: 14px;
       }
 
@@ -78,7 +77,7 @@
       }
 
       .contact-info {
-        margin-top: 6px;
+        margin-top: 8px;
       }
 
       .contact-info a {
@@ -91,12 +90,18 @@
         color: #333;
       }
 
+      .note {
+        margin-top: 6px;
+        font-size: 13px;
+        color: #666;
+      }
+
       ul {
         padding-left: 20px;
       }
 
       li {
-        margin-bottom: 4px;
+        margin-bottom: 6px;
       }
 
       a {
@@ -106,6 +111,23 @@
 
       a:hover {
         text-decoration: underline;
+      }
+
+      .section-subtitle {
+        font-weight: 600;
+        margin-top: 8px;
+      }
+
+      @media (max-width: 700px) {
+        .profile-section {
+          flex-direction: column;
+          align-items: flex-start;
+        }
+
+        .profile-img {
+          margin-right: 0;
+          margin-bottom: 18px;
+        }
       }
     </style>
   </head>
@@ -119,157 +141,124 @@
             <div>
               <h1>Guojing Li 李国静</h1>
               <div class="name-and-affiliation">
-                Joint Ph.D. Student, School of Data Science, City University of Hong Kong &amp;<br>
-                School of Labor and Human Resources, Renmin University of China
+                PhD Student, School of Data Science, City University of Hong Kong<br>
+                Joint PhD Student, School of Labor and Human Resources, Renmin University of China
               </div>
               <div class="contact-info">
-                <!-- Emails -->
-                <a href="mailto:guojingli3-c@my.cityu.edu.hk" title="CityU Email">
-                  <i class="fas fa-envelope"></i>
-                </a>
-                <a href="mailto:alfredjameslee@ruc.edu.cn" title="RUC Email">
-                  <i class="far fa-envelope"></i>
-                </a>
-                <!-- GitHub -->
-                <a href="https://github.com/AlfredJamesLi" target="_blank" title="GitHub">
-                  <i class="fab fa-github"></i>
-                </a>
-                <!-- ORCID -->
-                <a href="https://orcid.org/0009-0005-2948-2220" target="_blank" title="ORCID">
-                  <i class="ai ai-orcid-square ai-fw"></i>
-                </a>
-                <!-- Google Scholar -->
-                <a href="https://scholar.google.com/citations?user=FTI-CrIAAAAJ&amp;hl=en" target="_blank" title="Google Scholar">
-                  <i class="ai ai-google-scholar-square ai-fw"></i>
-                </a>
+                <a href="mailto:guojingli3-c@my.cityu.edu.hk" title="CityU Email"><i class="fas fa-envelope"></i></a>
+                <a href="mailto:alfredjameslee@ruc.edu.cn" title="RUC Email"><i class="far fa-envelope"></i></a>
+                <a href="https://github.com/AlfredJamesLi" target="_blank" title="GitHub"><i class="fab fa-github"></i></a>
+                <a href="https://orcid.org/0009-0005-2948-2220" target="_blank" title="ORCID"><i class="ai ai-orcid-square ai-fw"></i></a>
+              </div>
+              <div class="note">
+                Affiliated with <a href="https://aml-cityu.github.io/team/" target="_blank">Applied Machine Learning Lab (AML)</a>, City University of Hong Kong
               </div>
             </div>
           </div>
 
           <div class="content">
             <p>
-              Hi there! I am currently a joint Ph.D. student in Data Science at the 
-              School of Computer Science, City University of Hong Kong (Supervisor: 
-              <a href="https://zhaoxyai.github.io/" target="_blank">Professor Xiangyu Zhao</a>), 
-              and in Human Resource Management at the School of Labor and Human Resources, 
-              Renmin University of China (Supervisor: 
-              <a href="http://slhr.ruc.edu.cn/En/Teacher_Home/ZHOU_Wenxia/index.htm" target="_blank">
-              Professor Wenxia Zhou</a>, Distinguished Professor and Second-rank Professor—
-              The highest academic title in the humanities and social sciences in mainland China,
-              and I am also affiliated with the 
-              <a href="https://aml-cityu.github.io/" target="_blank">Applied Machine Learning Lab (AML)</a> at CityU of Hong Kong.
+              I am a PhD student in Data Science at the <a href="https://www.cityu.edu.hk/" target="_blank">City University of Hong Kong</a>, supervised by
+              <a href="https://zhaoxyai.github.io/" target="_blank">Professor Xiangyu Zhao</a>, and a joint PhD student in Human Resource Management at
+              <a href="https://en.ruc.edu.cn/" target="_blank">Renmin University of China</a>, supervised by
+              <a href="http://slhr.ruc.edu.cn/En/Teacher_Home/ZHOU_Wenxia/index.htm" target="_blank">Professor Wenxia Zhou</a>.
+              My current work sits at the intersection of natural language processing, large language models, text-based assessment,
+              and user-facing intelligent applications. More specifically, I am interested in how NLP and AI-supported methods can be used to build
+              interpretable assessment, feedback, and support tools for real-world applications.
             </p>
-          <h2>Research Interests</h2>
-          <ul>
-            <li>
-              Multi-source, multi-method psychometrics of employment-related competencies, career success
-              and AI-era work outcomes among university students and research-track master's/PhD students.
-            </li>
-            <li>
-              Machine-learning and NLP-based text mining of recruitment texts and open-ended questionnaire
-              responses to extract competence elements, build predictive models (classification and regression),
-              and design human-like data augmentation pipelines.
-            </li>
-            <li>
-              Career and job recommendation systems: leveraging survey, behavioral, and labor-market data to
-              fine-tune models and develop career recommendation/counseling agents for students.
-            </li>
-            <li>
-              More broadly, NLP, large language models (LLMs), and big-data methods for labor-market analytics
-              and social science research.
-            </li>
-          </ul>
+
+            <h2>Research Summary</h2>
+            <p>
+              My recent research focuses on natural language processing, large language models, text mining, AI-supported assessment,
+              and intelligent support systems. I am particularly interested in text-based assessment, structured feedback, competency extraction,
+              and recommendation-oriented applications that integrate NLP, psychometrics, and domain knowledge.
+            </p>
+
+            <h2>Research Interests</h2>
+            <ul>
+              <li>Natural Language Processing (NLP), Large Language Models (LLMs), and user-facing intelligent applications.</li>
+              <li>Text mining and information extraction from recruitment texts, open-ended responses, and other real-world text corpora.</li>
+              <li>AI-supported assessment, structured feedback, and multi-source evaluation.</li>
+              <li>Job recommendation, competency extraction, and intelligent support for career-development contexts.</li>
+            </ul>
+
             <h2>Education</h2>
             <ul>
-              <li><strong>Ph.D. in Data Science</strong>, City University of Hong Kong, 2024&nbsp;– present</li>
-              <li><strong>Ph.D. in Human Resource Management</strong>, Renmin University of China</li>
-              <li><strong>M.A. in Applied Psychology</strong>, City University of Macao</li>
-              <li><strong>B.Sc. in Applied Mathematics</strong>, Beijing Normal University (Zhuhai Campus)</li>
+              <li><strong>PhD in Data Science</strong>, City University of Hong Kong, 2024–present.</li>
+              <li><strong>PhD in Human Resource Management</strong>, Renmin University of China, 2020–present.</li>
+              <li><strong>M.S. in Applied Psychology</strong>, City University of Macau, 2013–2016.</li>
+              <li><strong>B.S. in Applied Mathematics</strong>, Beijing Normal University, Zhuhai, 2009–2013.</li>
             </ul>
 
-            <h2>Selected Publications</h2>
+            <h2>Selected Publications and Research Outputs</h2>
+            <div class="section-subtitle">Published / Accepted</div>
             <ul>
               <li>
-                Han, Z., Cheng, Y., Ren, Z., Wang, D., <strong>Li, G.</strong> (2024). 
-                Meta-analysis of work connectivity behavior and work–life conflict: 
-                From the perspective of the work–family resource model. 
+                Fu, Z., Wu, X., <strong>Li, G.</strong>, et al. (2025). <em>Model Merging for Knowledge Editing</em>. ACL 2025 Industry Track (Oral).
+              </li>
+              <li>
+                Fu, Z., Wu, X., <strong>Li, G.</strong>, et al. (2026). <em>Tandem: Riding Together with Large and Small Language Models for Efficient Reasoning</em>. ACL 2026 Findings.
+              </li>
+              <li>
+                Li, J., Qian, X., Zhang, Y., et al. (2026). <em>Towards Pareto-Optimal Tool-Integrated Agents with Pareto Ranking Policy Optimization</em>. ICML 2026 Spotlight.
+              </li>
+              <li>
+                Han, Z., Cheng, Y., Ren, Z., Wang, D., &amp; <strong>Li, G.</strong> (2024).
+                <em>Meta-analysis of Work Connectivity Behavior and Work–Life Conflict: From the Perspective of the Work–Family Resource Model</em>.
                 <em>Advances in Psychological Science</em>.
               </li>
+            </ul>
+
+            <div class="section-subtitle">Selected Recent Work</div>
+            <ul>
               <li>
-                Fu, Z., Wu, X., <strong>Li, G.</strong>, Zhang, Y., Zheng, Y., Ming, T., Wang, Y., Wang, W., Zhao, X. (2025). 
-                Model Merging for Knowledge Editing. 
-                <em>ACL 2025 Industry Track</em> (Oral).
+                Fu, Z., Li, G., Wang, Y., et al. (2026). <em>Sliding Window Attention Training for Efficient Large Language Models</em>. COLM 2026 submission.
               </li>
               <li>
-                Zhou, W., Pan, Z., <strong>Li, G.</strong>, et al. (2023). 
-                Handbook of Career Research, Teaching, and Counseling Tools.
+                Fu, Z., Wu, X., Li, G., et al. (2026). <em>Collaborative Question Answering with Cross-Sequence Attention</em>. ICML 2026 submission.
               </li>
               <li>
-                Zhao, Y., Cao, W., Yuan, Z., Rong, X., <strong>Li, G.</strong> (2018). 
-                Research on the differences between brand image presentation and positioning of news media: 
-                Taking Huawei and Xiaomi as examples. 
-                Annual Conference of the Chinese Society of Journalism and History.
+                Fu, Z., Gao, J., Li, G., et al. (2026). <em>Feeling of Knowing in Large Language Models</em>. NeurIPS 2026 submission.
+              </li>
+              <li>
+                <em>Chinese-SkillSpan: A Span-Level Dataset for ESCO-Aligned Competency Extraction from Chinese Job Advertisements</em>.
+              </li>
+              <li>
+                <em>LLM-based Job Recommendation and Competency Extraction from Multi-Domain Recruitment Texts</em>.
               </li>
             </ul>
 
-            <h2>Working Papers &amp; Current Projects</h2>
+            <h2>Research and Professional Experience</h2>
             <ul>
               <li>
-                <em>Chinese-SkillSpan: A Span-Level Dataset for ESCO-Aligned Competency Extraction from Chinese Job Ads</em>
+                <strong>Research Consultant &amp; Data Analyst Engineer</strong>, eRS Information Technology Limited, 2018.07–2021.07.<br>
+                Worked on text classification, sentiment analysis, topic modeling (LDA), named entity recognition, and other text-mining projects,
+                including application-oriented NLP model development and deployment.
               </li>
               <li>
-                <em>Skill Extraction via LLM-Centric Multi-Module Framework</em>
+                <strong>Teaching / Research Assistant</strong>, School of Labor and Human Resources, Renmin University of China, 2020.09–present.<br>
+                Contributed to projects on vocational skill improvement, organizational evaluation, and career-success research, including participation
+                in a National Social Science Fund project on social capital, human capital, and career success in the AI era. Responsible for data analysis,
+                reporting, and research support in collaborative projects.
               </li>
               <li>
-                <em>LLM for Job Recommendation</em>
-              </li>
-              <li>
-                <em>Core Competencies Related to Chinese College Students' Employment: 
-                A Bibliometric and Content Analysis of Chinese Literature (1979–2025)</em> — 
-                Excellent Paper Award at the “Algorithmic Management and Human–Machine Integration Forum”; 
-                manuscript currently under journal submission.
+                <strong>Visiting Scholar</strong>, Scott College of Business, Indiana State University, 2022.09–2024.04.
               </li>
             </ul>
 
-            <h2>Professional Experience</h2>
+            <h2>Technical Skills and Languages</h2>
             <ul>
-               <li>
-               <strong>Intern, Human Capital Department</strong>, CITIC Group, 2025/12&nbsp;– Present<br>
-                  Working as an intern in the Human Capital Department, supporting human resource management-related tasks and gaining practical experience in corporate human capital operations.
-              </li>
-              <li>
-                <strong>Teaching Assistant</strong>, School of Labor and Human Resources, Renmin University of China, 2020/09&nbsp;– present<br>
-                Involved in multiple research and consulting projects on vocational skill improvement, freelance labor, 
-                Civil service management systems and AI-era career success mechanisms; responsible mainly for data analysis and reporting.
-              </li>
-              <li>
-                <strong>Visiting Scholar</strong>, Scott College of Business, Indiana State University, 2022/09&nbsp;– 2024/04
-              </li>
-              <li>
-                <strong>Research Consultant &amp; Data Analyst Engineer</strong>, eRS Information Technology Limited, 2018/07&nbsp;– 2023<br>
-                Participated in text mining projects (text classification, sentiment analysis, topic modeling, word relation modeling, 
-                named entity recognition, and AI-based telephone number recognition models) and deployed models to online production.
-              </li>
+              <li><strong>Programming / Analytics:</strong> Python, R, Java, SPSS, SAS, MATLAB, Amos.</li>
+              <li><strong>NLP / ML Experience:</strong> text mining, information extraction, sentiment analysis, topic modeling, named entity recognition, machine learning, and large language model applications.</li>
+              <li><strong>Assessment / Application Experience:</strong> AI-supported assessment, multi-source evaluation, structured feedback, and user-facing intelligent applications.</li>
+              <li><strong>Languages:</strong> Mandarin Chinese (native), Cantonese (native), English (IELTS 6.5).</li>
             </ul>
 
-            <h2>Awards &amp; Scholarships</h2>
+            <h2>Selected Awards</h2>
             <ul>
-              <li>
-                Excellent Paper Award, “Algorithmic Management and Human–Machine Integration Forum”, 
-                for the paper <em>Core Competencies Related to Chinese College Students' Employment: 
-                A Bibliometric and Content Analysis of Chinese Literature (1979–2025)</em>.
-              </li>
-              <li>China Scholarship Council (CSC) National Study Abroad Scholarship.</li>
-              <li>Ph.D. Scholarship (C-Class) for Doctoral Students, Renmin University of China.</li>
-            </ul>
-
-            <h2>Skills &amp; Certifications</h2>
-            <ul>
-              <li><strong>Data &amp; Programming:</strong> SPSS, Amos, SAS, MATLAB, R, Java, Python, text mining and machine learning toolkits.</li>
-              <li><strong>Professional Certifications:</strong> AI Engineer (Microsoft MTA), Data Management Specialist (Microsoft MTA), Data Analyst, etc.</li>
-              <li><strong>Languages:</strong> Mandarin &amp; Cantonese (native), English (IELTS 6.5, CET-6).</li>
-              <li><strong>Others:</strong> Teacher Qualification Certificate; participation in multiple workshops on psychosomatic medicine, 
-                  psychotherapy, and big data applications.</li>
+              <li>Excellent Paper Award, Algorithmic Management and Human–Machine Integration Forum.</li>
+              <li>China Scholarship Council (CSC) Scholarship.</li>
+              <li>C-Class Scholarship for PhD Students, Renmin University of China.</li>
             </ul>
           </div>
         </div>
