@@ -1,9 +1,9 @@
 # GuoJing Li
 
 ## 🎓 Education
-- Ph.D. Student in the School of Data Science, City University of Hong Kong (2024 - present) 
+- Ph.D. Student in Human Resource Management, Renmin University of China (2020 - present)
+- Joint Ph.D. Training, School of Data Science, City University of Hong Kong (2024 - present)
 - Visiting Scholar, Scott Business School, Indiana State University (2022 - 2024)
-- Ph.D. Student in Human Resource Management, Renmin University of China (2020 - present)  
 - Master of Applied Psychology, City University of Macao (2013 - 2016)
 - Bachelor of Science in Applied Mathematics, Beijing Normal University Zhuhai Campus (2009 - 2013)
 
