@@ -52,7 +52,7 @@ More ongoing projects are listed on my [website](https://alfredjamesli.github.io
 
 ## Research & Professional Experience
 
-- **Intern, Human Capital Department**, **CITIC Group**. Supported human resource management tasks and gained practical experience in corporate human capital operations.
+- **Intern, Human Capital Department**, **CITIC Group** — **2025/12–present**. Supported human resource management tasks and gained practical experience in corporate human capital operations.
 - **Teaching / Research Assistant**, School of Labor and Human Resources, Renmin University of China — **2020/09–present**. Research support, data analysis, and reporting for projects on vocational skill improvement, organizational evaluation, and career success.
 - **Visiting Scholar**, Scott College of Business, Indiana State University — **2022/09–2024/04**.
 - **Research Consultant & Data Analyst Engineer**, [BoYi Data](https://www.boyidata.cn/) (a subsidiary of eRS Information Technology Limited) — **2018/07–2021/07**. Text classification, sentiment analysis, topic modeling, named entity recognition, and applied NLP model development and deployment.
